@@ -1,0 +1,24 @@
+.pp {
+	position: relative;
+	width: max-content;
+}
+
+.pp .pdp {
+	background: center / cover
+		url(https://imgs.search.brave.com/SkYbb-x4VtQAfTKbKM7VAYo_S78DS3J0SZLcuGoBKc0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/bG9nb2pveS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjEw/NDIyMDk1MDM3L2Rp/c2NvcmQtbWFzY290/LnBuZw);
+	width: 550px;
+	height: 550px;
+	border: 7px solid black;
+	border-radius: 50%;
+}
+
+.pp .cercle {
+	position: absolute;
+	background-color: green;
+	width: 112px;
+	height: 112px;
+	bottom: 70px;
+	right: 55px;
+	border-radius: 999px;
+	border: 7px solid black;
+}
